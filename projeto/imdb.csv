@@ -1,0 +1,251 @@
+,Movie Names,Ratings,Year,Duration (Minutes),Classification
+0,The Shawshank Redemption,9.3,1994,142,R
+1,The Godfather,9.2,1972,175,R
+2,The Dark Knight,9.0,2008,152,PG-13
+3,The Godfather Part II,9.0,1974,202,R
+4,12 Angry Men,9.0,1957,96,Approved
+5,Schindler's List,9.0,1993,195,R
+6,The Lord of the Rings: The Return of the King,9.0,2003,201,PG-13
+7,Pulp Fiction,8.9,1994,154,R
+8,The Lord of the Rings: The Fellowship of the Ring,8.9,2001,178,PG-13
+9,"The Good, the Bad and the Ugly",8.8,1966,178,R
+10,Forrest Gump,8.8,1994,142,PG-13
+11,The Lord of the Rings: The Two Towers,8.8,2002,179,PG-13
+12,Fight Club,8.8,1999,139,R
+13,Inception,8.8,2010,148,PG-13
+14,Star Wars: Episode V - The Empire Strikes Back,8.7,1980,124,PG
+15,The Matrix,8.7,1999,136,R
+16,Goodfellas,8.7,1990,145,R
+17,One Flew Over the Cuckoo's Nest,8.7,1975,133,R
+18,Dune: Part Two,8.7,2024,166,PG-13
+19,Se7en,8.6,1995,127,R
+20,Interstellar,8.7,2014,169,PG-13
+21,It's a Wonderful Life,8.6,1946,130,PG
+22,Seven Samurai,8.6,1954,207,Not Rated
+23,The Silence of the Lambs,8.6,1991,118,R
+24,Saving Private Ryan,8.6,1998,169,R
+25,City of God,8.6,2002,130,R
+26,Life Is Beautiful,8.6,1997,116,PG-13
+27,The Green Mile,8.6,1999,189,R
+28,Terminator 2: Judgment Day,8.6,1991,137,R
+29,Star Wars: Episode IV - A New Hope,8.6,1977,121,PG
+30,Back to the Future,8.5,1985,116,PG
+31,Spirited Away,8.6,2001,125,PG
+32,The Pianist,8.5,2002,150,R
+33,Parasite,8.5,2019,132,R
+34,Psycho,8.5,1960,109,R
+35,Spider-Man: Across the Spider-Verse,8.6,2023,140,PG
+36,Gladiator,8.5,2000,155,R
+37,The Lion King,8.5,1994,88,G
+38,Léon: The Professional,8.5,1994,110,R
+39,The Departed,8.5,2006,151,R
+40,American History X,8.5,1998,119,R
+41,Whiplash,8.5,2014,106,R
+42,The Prestige,8.5,2006,130,PG-13
+43,Grave of the Fireflies,8.5,1988,89,Not Rated
+44,Harakiri,8.6,1962,133,Not Rated
+45,The Usual Suspects,8.5,1995,106,R
+46,Casablanca,8.5,1942,102,PG
+47,The Intouchables,8.5,2011,112,R
+48,Cinema Paradiso,8.5,1988,174,PG
+49,Modern Times,8.5,1936,87,G
+50,Rear Window,8.5,1954,112,PG
+51,Once Upon a Time in the West,8.5,1968,166,PG-13
+52,Alien,8.5,1979,117,R
+53,City Lights,8.5,1931,87,G
+54,Django Unchained,8.5,2012,165,R
+55,Apocalypse Now,8.4,1979,147,R
+56,Memento,8.4,2000,113,R
+57,12th Fail,9.0,2023,147,PG
+58,WALL·E,8.4,2008,98,G
+59,Raiders of the Lost Ark,8.4,1981,115,PG
+60,The Lives of Others,8.4,2006,137,R
+61,Sunset Blvd.,8.4,1950,110,Approved
+62,Paths of Glory,8.4,1957,88,Approved
+63,Avengers: Infinity War,8.4,2018,149,PG-13
+64,Spider-Man: Into the Spider-Verse,8.4,2018,117,PG
+65,Witness for the Prosecution,8.4,1957,116,Approved
+66,The Shining,8.4,1980,146,R
+67,The Great Dictator,8.4,1940,125,G
+68,Aliens,8.4,1986,137,R
+69,Inglourious Basterds,8.4,2009,153,R
+70,The Dark Knight Rises,8.4,2012,164,PG-13
+71,Dr,8.4,1964,95,PG
+72,American Beauty,8.3,1999,122,R
+73,Oldboy,8.3,2003,120,R
+74,Coco,8.4,2017,105,PG
+75,Amadeus,8.4,1984,160,PG
+76,Toy Story,8.3,1995,81,G
+77,Das Boot,8.4,1981,149,R
+78,Avengers: Endgame,8.4,2019,181,PG-13
+79,Braveheart,8.3,1995,178,R
+80,Joker,8.4,2019,122,R
+81,Princess Mononoke,8.3,1997,134,PG-13
+82,Good Will Hunting,8.3,1997,126,R
+83,Your Name.,8.4,2016,106,PG-13
+84,Once Upon a Time in America,8.3,1984,229,R
+85,High and Low,8.4,1963,143,Not Rated
+86,3 Idiots,8.4,2009,170,PG-13
+87,Singin' in the Rain,8.3,1952,103,G
+88,Capernaum,8.4,2018,126,R
+89,Requiem for a Dream,8.3,2000,102,NC-17
+90,Come and See,8.4,1985,142,Not Rated
+91,Toy Story 3,8.3,2010,103,G
+92,Star Wars: Episode VI - Return of the Jedi,8.3,1983,131,PG
+93,Oppenheimer,8.3,2023,180,R
+94,Eternal Sunshine of the Spotless Mind,8.3,2004,108,R
+95,The Hunt,8.3,2012,115,R
+96,2001: A Space Odyssey,8.3,1968,149,G
+97,Reservoir Dogs,8.3,1992,99,R
+98,Ikiru,8.3,1952,143,Not Rated
+99,Lawrence of Arabia,8.3,1962,218,PG
+100,The Apartment,8.3,1960,125,Approved
+101,North by Northwest,8.3,1959,136,Approved
+102,Citizen Kane,8.3,1941,119,PG
+103,Incendies,8.3,2010,131,R
+104,Vertigo,8.3,1958,128,PG
+105,M,8.3,1931,99,Passed
+106,Double Indemnity,8.3,1944,107,Approved
+107,Scarface,8.3,1983,170,R
+108,Amélie,8.3,2001,122,R
+109,Full Metal Jacket,8.3,1987,116,R
+110,Heat,8.3,1995,170,R
+111,A Clockwork Orange,8.3,1971,136,R
+112,Up,8.3,2009,96,PG
+113,To Kill a Mockingbird,8.3,1962,129,Approved
+114,The Sting,8.3,1973,129,PG
+115,A Separation,8.3,2011,123,PG-13
+116,Indiana Jones and the Last Crusade,8.2,1989,127,PG-13
+117,Die Hard,8.2,1988,132,R
+118,Metropolis,8.3,1927,153,Not Rated
+119,Like Stars on Earth,8.3,2007,162,PG
+120,Snatch,8.2,2000,102,R
+121,Hamilton,8.3,2020,160,PG-13
+122,L.A,8.2,1997,138,R
+123,1917,8.2,2019,119,R
+124,Bicycle Thieves,8.3,1948,89,Not Rated
+125,Taxi Driver,8.2,1976,114,R
+126,Downfall,8.2,2004,156,R
+127,Dangal,8.3,2016,161,Not Rated
+128,For a Few Dollars More,8.2,1965,132,R
+129,Batman Begins,8.2,2005,140,PG-13
+130,The Wolf of Wall Street,8.2,2013,180,R
+131,Some Like It Hot,8.2,1959,121,Approved
+132,Green Book,8.2,2018,130,PG-13
+133,The Kid,8.2,1921,68,Passed
+134,The Father,8.2,2020,97,PG-13
+135,Judgment at Nuremberg,8.3,1961,179,Approved
+136,All About Eve,8.2,1950,138,Approved
+137,The Truman Show,8.2,1998,103,PG
+138,Top Gun: Maverick,8.2,2022,130,PG-13
+139,Shutter Island,8.2,2010,138,R
+140,There Will Be Blood,8.2,2007,158,R
+141,Casino,8.2,1995,178,R
+142,Jurassic Park,8.2,1993,127,PG-13
+143,Ran,8.2,1985,160,R
+144,The Sixth Sense,8.2,1999,107,PG-13
+145,Pan's Labyrinth,8.2,2006,118,R
+146,Unforgiven,8.2,1992,130,R
+147,No Country for Old Men,8.2,2007,122,R
+148,A Beautiful Mind,8.2,2001,135,PG-13
+149,The Thing,8.2,1982,109,R
+150,Kill Bill: Vol,8.2,2003,111,R
+151,The Treasure of the Sierra Madre,8.2,1948,126,Approved
+152,Yojimbo,8.2,1961,110,Not Rated
+153,Monty Python and the Holy Grail,8.2,1975,91,PG
+154,The Great Escape,8.2,1963,172,Approved
+155,Finding Nemo,8.2,2003,100,G
+156,Rashomon,8.2,1950,88,Not Rated
+157,Prisoners,8.2,2013,153,R
+158,Howl's Moving Castle,8.2,2004,119,PG
+159,The Elephant Man,8.2,1980,124,PG
+160,Chinatown,8.1,1974,130,R
+161,Dial M for Murder,8.2,1954,105,PG
+162,Gone with the Wind,8.2,1939,238,G
+163,V for Vendetta,8.2,2005,132,R
+164,"Lock, Stock and Two Smoking Barrels",8.1,1998,107,R
+165,The Secret in Their Eyes,8.2,2009,129,R
+166,Inside Out,8.1,2015,95,PG
+167,Raging Bull,8.1,1980,129,R
+168,"Three Billboards Outside Ebbing, Missouri",8.1,2017,115,R
+169,Trainspotting,8.1,1996,93,R
+170,The Bridge on the River Kwai,8.1,1957,161,PG
+171,Spider-Man: No Way Home,8.2,2021,148,PG-13
+172,Fargo,8.1,1996,98,R
+173,Klaus,8.2,2019,96,PG
+174,Catch Me If You Can,8.1,2002,141,PG-13
+175,Warrior,8.1,2011,140,PG-13
+176,Godzilla Minus One,8.3,2023,124,PG-13
+177,Gran Torino,8.1,2008,116,R
+178,My Neighbor Totoro,8.1,1988,86,G
+179,Million Dollar Baby,8.1,2004,132,PG-13
+180,Harry Potter and the Deathly Hallows: Part 2,8.1,2011,130,PG-13
+181,Children of Heaven,8.2,1997,89,PG
+182,12 Years a Slave,8.1,2013,134,R
+183,Blade Runner,8.1,1982,117,R
+184,Before Sunrise,8.1,1995,101,R
+185,Ben-Hur,8.1,1959,212,G
+186,Barry Lyndon,8.1,1975,185,PG
+187,The Grand Budapest Hotel,8.1,2014,99,R
+188,Gone Girl,8.1,2014,149,R
+189,Hacksaw Ridge,8.1,2016,139,R
+190,The Gold Rush,8.1,1925,95,Approved
+191,Memories of Murder,8.1,2003,132,Not Rated
+192,In the Name of the Father,8.1,1993,133,R
+193,Dead Poets Society,8.1,1989,128,PG
+194,Wild Tales,8.1,2014,122,R
+195,Mad Max: Fury Road,8.1,2015,120,R
+196,The General,8.1,1926,78,Passed
+197,The Deer Hunter,8.1,1978,183,R
+198,On the Waterfront,8.1,1954,108,Approved
+199,"Monsters, Inc.",8.1,2001,92,G
+200,Sherlock Jr.,8.2,1924,45,Passed
+201,The Third Man,8.1,1949,93,Approved
+202,The Wages of Fear,8.2,1953,131,Not Rated
+203,Wild Strawberries,8.1,1957,91,Not Rated
+204,Jaws,8.1,1975,124,PG
+205,How to Train Your Dragon,8.1,2010,98,PG
+206,Mary and Max,8.1,2009,92,Not Rated
+207,Mr,8.1,1939,129,Approved
+208,Ratatouille,8.1,2007,111,G
+209,Ford v Ferrari,8.1,2019,152,PG-13
+210,Tokyo Story,8.1,1953,136,Not Rated
+211,The Big Lebowski,8.1,1998,117,R
+212,Room,8.1,2015,118,R
+213,The Seventh Seal,8.1,1957,96,Not Rated
+214,Rocky,8.1,1976,120,PG
+215,Logan,8.1,2017,137,R
+216,Spotlight,8.1,2015,129,R
+217,Hotel Rwanda,8.1,2004,121,PG-13
+218,The Terminator,8.1,1984,107,R
+219,Platoon,8.1,1986,120,R
+220,The Passion of Joan of Arc,8.1,1928,114,Passed
+221,La haine,8.1,1995,98,Not Rated
+222,Before Sunset,8.1,2004,80,R
+223,The Best Years of Our Lives,8.1,1946,170,Approved
+224,Pirates of the Caribbean: The Curse of the Black Pearl,8.1,2003,143,PG-13
+225,The Exorcist,8.1,1973,122,R
+226,Rush,8.1,2013,123,R
+227,Jai Bhim,8.7,2021,164,Approved
+228,Network,8.1,1976,121,R
+229,Stand by Me,8.1,1986,89,R
+230,The Wizard of Oz,8.1,1939,102,G
+231,The Incredibles,8.0,2004,115,PG
+232,Hachi: A Dog's Tale,8.1,2009,93,G
+233,The Handmaiden,8.1,2016,145,Not Rated
+234,Into the Wild,8.1,2007,148,R
+235,My Father and My Son,8.2,2005,112,Not Rated
+236,The Sound of Music,8.1,1965,172,G
+237,To Be or Not to Be,8.1,1942,99,Approved
+238,The Grapes of Wrath,8.1,1940,129,Approved
+239,The Battle of Algiers,8.1,1966,121,Not Rated
+240,Groundhog Day,8.0,1993,101,PG
+241,Amores Perros,8.1,2000,154,R
+242,Rebecca,8.1,1940,130,Approved
+243,The Iron Giant,8.1,1999,86,PG
+244,Cool Hand Luke,8.1,1967,127,Approved
+245,The Help,8.1,2011,146,PG-13
+246,It Happened One Night,8.1,1934,105,Approved
+247,Aladdin,8.0,1992,90,G
+248,Dances with Wolves,8.0,1990,181,PG-13
+249,In the Mood for Love,8.1,2000,98,PG
